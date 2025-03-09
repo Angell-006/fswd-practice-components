@@ -7,6 +7,7 @@ function App() {
   <div className="App">
     <StudentDetails name="Angel" rollNum="ADS123"></StudentDetails>
     <StudentDetails name="Saideep" rollNum="ADS124"></StudentDetails>
+    <StudentDetails name="Sai" rollNum="ADS125"></StudentDetails>
   </div>
 );
 }
